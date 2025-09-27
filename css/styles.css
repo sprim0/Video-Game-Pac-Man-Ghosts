@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin-left: 19%;
+}
+img{
+    height: 500px;
+    max-width: 100%;
+}
+h1{
+    margin-left: 23%;
+}

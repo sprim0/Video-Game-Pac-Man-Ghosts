@@ -1,3 +1,7 @@
 # Video-Game-Pac-Man-Ghosts
 
-Video game class using Javascript. JS code focuses on classes and objects. Minimal html and css used for visual.
+This is a code breakdown of a video game themed, class using Javascript. 
+JS code focuses on classes and arrays. Minimal html and css used for visual.
+
+Learned how to test the class functions in the DOM.
+
